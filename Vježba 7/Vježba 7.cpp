@@ -129,7 +129,7 @@ int main()
 
 	else {
 		for (i = 0; i < size; i++) {
-			A[i] = rand();
+			A[i] = rand() % 100;
 			B[i] = A[i];
 		}
 
