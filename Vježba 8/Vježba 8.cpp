@@ -67,7 +67,7 @@ void BubbleSort(int size, int A[])
 
 int main()
 {
-	srand( (unsigned)time( NULL ) );//usklaðivanje rand generatora sa sistemskim vremennom
+	srand( (unsigned)time( NULL ) );//usklaÃ°ivanje rand generatora sa sistemskim vremennom
 	FILE  *file1,*file2;
 	int vrijeme1,vrijeme2; 
 	int i,size;
@@ -85,7 +85,7 @@ int main()
 	//pokreni quick sort
 	
 	vrijeme2=GetTickCount();
-	// ispiši vrijeme sortiranja
+	// ispiÅ¡i vrijeme sortiranja
 	printf("vrijeme1:%d\n",vrijeme2-vrijeme1);
 	
 	//ispis u file
