@@ -1,2 +1,2 @@
 # Algoritmi
-Repozitorij za kolegij Algoritmi.
+Repozitorij za laboratorijske vježbe iz Algoritama.
